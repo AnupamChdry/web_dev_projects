@@ -1,0 +1,60 @@
+html,
+body {
+  height: 100%;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.bottom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.middle{
+    border-radius: 0px;
+    margin-bottom: -1px;
+}
+
+.copyright{
+    text-align: center;
+}
+
+.header{
+    text-align: center;
+}
+
+.pikachu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.border-dashed { 
+  --bs-border-style: dashed; 
+}
+
+/* .try{
+  background-color: white; 
+  color: blue; 
+  border: 2px solid #008CBA;
+} */
+
+/* .btn{
+  color:blue;
+} */
+

@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-size: 5rem;
+}
+table {
+    text-align: center;
+}
+button{
+    font-size: 5rem;
+}
+.red{
+    background-image: "/images/blue.jpg";
+}
+.blue{
+    background-image: "/images/green.jpg";
+}
+.green{
+    background-image: "/images/red.jpg";
+}
+.yellow{
+    background-image: "/images/yellow.jpg";
+}
